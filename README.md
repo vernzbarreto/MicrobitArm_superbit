@@ -1,6 +1,6 @@
 # SuperBit
 
-Extension for Yahboom SuperBit V1.0
+Extension for TechnokidsPH SuperBit V1.0
 
 ## License
 
